@@ -1,5 +1,5 @@
-#ifndef FILES_H
-#define FILED_H
+#ifndef ARRAY_H
+#define ARRAY_H
 #include <iostream>
 class Array{
     
